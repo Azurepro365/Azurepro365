@@ -1,5 +1,5 @@
 <h1>Hi, I'm Francisco! 
-  - Systems/CyberSecurity Analyst</h1>
+  - CyberSecurity Analyst</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
