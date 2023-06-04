@@ -1,11 +1,12 @@
-<h1>Hi, I'm Francisco! Systems Analyst/CyberSecurity Analyst</h1>
+<h1>Hi, I'm Francisco! 
+  - Systems Analyst/CyberSecurity Analyst</h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 - <b>Creating a Live SOC/HoneyNet in Azure</b>
   - [https://github.com/Azurepro365/HoneyNet-Project)
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 Favorite YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
